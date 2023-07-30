@@ -7,7 +7,7 @@ This is a boundary condition written based on foam-extend-4.1.
 ## Installation
 It is working on foam-extend-4.1
 ```bash
-git clone [https://github.com](https://github.com/EhsanGLB/parabolicRadialVelocityBC.git)
+git clone https://github.com/EhsanGLB/parabolicRadialVelocityBC/
 ./Allwmake
 ```
 
