@@ -8,8 +8,13 @@ This is a boundary condition written based on foam-extend-4.1.
 It is working on foam-extend-4.1
 ```bash
 git clone https://github.com/EhsanGLB/parabolicRadialVelocityBC.git
-./Allwmake
+cd parabolicRadialVelocityBC
+wmake libso
 ```
+
+## Installation
+Add "libparabolicRadialVelocityBC.so" to system/controlDict
+
 
 ## References
 * [Golab, Ehsan, Behzad Vahedi, Ankur Jain, Robert A. Taylor, and Kambiz Vafai. "Laminar forced convection in a tube with a nano-encapsulated phase change materials: Minimizing exergy losses and maximizing the heat transfer rate." Journal of Energy Storage 65 (2023): 107233.](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23006308)
