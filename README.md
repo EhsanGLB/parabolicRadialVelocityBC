@@ -3,6 +3,7 @@ This is a boundary condition written based on foam-extend-4.1.
 
 ## Math equation
 $$ U = 2V({1 - ({r \over R})^2 }) $$
+
 $$\eqalign{
 f(x) = {3x^4} \implies {dy \over dx} = 12x^3
 }$$
