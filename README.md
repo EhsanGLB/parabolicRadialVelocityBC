@@ -2,7 +2,8 @@
 This is a boundary condition written based on foam-extend-4.1.
 
 ## Math equation
-$2*V*(1-r \over R)$
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$ V = 2*V*(1-rR) $$
 
 ## Installation
 It is working on foam-extend-4.1
