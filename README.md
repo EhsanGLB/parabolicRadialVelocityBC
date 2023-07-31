@@ -5,7 +5,10 @@ This is a boundary condition written based on foam-extend-4.1.
 It is working on foam-extend-4.1
 ```bash
 git clone https://github.com/EhsanGLB/parabolicRadialVelocityBC.git
-cd parabolicRadialVelocityBC
+cd parabolicRadialVelocityBC/parabolicRadialVelocityBC
+cd ../case4GitHub
+blockMesh
+simpleFoam
 wmake libso
 ```
 
