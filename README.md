@@ -2,7 +2,7 @@
 This is a boundary condition written based on foam-extend-4.1.
 
 ## Math equation
-$$ x = {r \over R} $$
+$$ x = {1 - r \over R} $$
 
 
 ## Installation
