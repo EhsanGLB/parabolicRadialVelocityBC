@@ -1,6 +1,10 @@
 # parabolicRadialVelocityBC
 This is a boundary condition written based on foam-extend-4.1.
 
+## Math equation
+$\sqrt{3x-1}+(1+x)^2$
+$\2*V*(1-pow(r/R)^2$)
+
 ## Installation
 It is working on foam-extend-4.1
 ```bash
