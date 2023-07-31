@@ -2,7 +2,7 @@
 This is a boundary condition written based on foam-extend-4.1.
 
 ## Math equation
-$$ x = {1 - {r \over R} } $$
+$$ U = {1 - {r \over R}^2 } $$
 
 
 ## Installation
