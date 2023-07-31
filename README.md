@@ -2,7 +2,7 @@
 This is a boundary condition written based on foam-extend-4.1.
 
 ## Math equation
-$$ 2*V*(1-pow(r/R)^2)$$
+$2*V*(1-r \over R)$
 
 ## Installation
 It is working on foam-extend-4.1
