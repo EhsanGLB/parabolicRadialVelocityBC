@@ -1,3 +1,0 @@
-parabolicRadialVelocityBC.C
-
-LIB = $(FOAM_USER_LIBBIN)/libparabolicRadialVelocityBC
