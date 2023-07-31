@@ -2,7 +2,7 @@
 This is a boundary condition written based on foam-extend-4.1.
 
 ## Math equation
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+$$ x = {r \over R} $$
 
 
 ## Installation
