@@ -6,10 +6,10 @@ It is working on foam-extend-4.1
 ```bash
 git clone https://github.com/EhsanGLB/parabolicRadialVelocityBC.git
 cd parabolicRadialVelocityBC/parabolicRadialVelocityBC
+wmake libso
 cd ../case
 blockMesh
 simpleFoam
-wmake libso
 ```
 
 ## Activation
