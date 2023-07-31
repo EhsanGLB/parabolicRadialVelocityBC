@@ -4,7 +4,7 @@ This is a boundary condition written based on foam-extend-4.1.
 ## Math equation
 $$ U = 2V_m({1 - ({r \over R})^2 }) $$
 
-R is inlet radius, $V_m$ is mean velocity
+$R$ and $V_m$ are inlet radius and mean velocity, respectively.
 
 ## Installation
 It is working on foam-extend-4.1
