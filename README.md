@@ -1,10 +1,12 @@
 # parabolicRadialVelocityBC
 This is a boundary condition written based on foam-extend-4.1.
 
-## Math equation
+
+## Mathematical Relationships
 $$ U_{in} = 2 V_m \left({1 - ({r \over R})^2 }\right) $$
 
 Which $R$ and $V_m$ are inlet radius and mean velocity, respectively.
+
 
 ## Installation
 It is working on foam-extend-4.1
@@ -13,12 +15,18 @@ git clone https://github.com/EhsanGLB/parabolicRadialVelocityBC.git
 cd parabolicRadialVelocityBC/parabolicRadialVelocityBC
 wmake libso
 cd ../case
+```
+
+## Getting Started
+```bash
 blockMesh
 simpleFoam
 ```
 
+
 ## Activation
 Add "libparabolicRadialVelocityBC.so" to case/system/controlDict
+
 
 ## References
 * [Golab, Ehsan, Behzad Vahedi, Ankur Jain, Robert A. Taylor, and Kambiz Vafai. "Laminar forced convection in a tube with a nano-encapsulated phase change materials: Minimizing exergy losses and maximizing the heat transfer rate." Journal of Energy Storage 65 (2023): 107233.](https://www.sciencedirect.com/science/article/abs/pii/S2352152X23006308)
