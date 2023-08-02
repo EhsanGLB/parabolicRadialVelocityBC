@@ -1,5 +1,5 @@
 # parabolicRadialVelocityBC
-This is a boundary condition written based on foam-extend-4.1.
+This is a boundary condition  for parabolic radial velocity at inlet written based on foam-extend-4.1.
 
 
 ## Mathematical Relationships
